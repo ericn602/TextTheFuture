@@ -21,8 +21,9 @@ After you clone the files to your desktop, make sure you have Node.JS and MongoD
     - type in "use TextTheFuture"
     - NOTE: We are assumming that mongo is running at localhost:27017
   4. Start up your backend with "npm start" on another terminal
-  5. Open up the client in xCode, and navigate to ViewController.m file
-    - line 61, change "YourPhoneNumber" to whatever phone number you want the receiver to see
+  5. Open up the client in xCode
+    - in ViewController.m, line 61, change "YourPhoneNumber" to whatever phone number you want the receiver to see
+    - do the same in TableViewController.m, line 19
   6. Run the iOS code in xCode (try building on the iPhone 5, so the layout isn't messed up)
   7. Test to see if everything worked
 
