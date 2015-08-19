@@ -1,4 +1,6 @@
 # TextTheFuture
+<img src="https://github.com/ericn602/TextTheFuture/blob/master/readmepic1.png" width="275" height="470">
+
 TextTheFuture is an iOS app that allows its users to schedule a message to be automatically sent out to somebody else.
 
 Technologies Used:<br>
