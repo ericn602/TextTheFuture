@@ -16,7 +16,7 @@
 @implementation TableViewController
 -(void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:YES];
-    NSString *number = @"+12816029365";
+    NSString *number = @"YOUR PHONE NUMBER";
     NSString *url = @"http://localhost:3000/users/";
     NSString *urlString = [url stringByAppendingString:number];
     // Uncomment the following line to preserve selection between presentations.
